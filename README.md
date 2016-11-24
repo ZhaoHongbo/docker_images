@@ -1,2 +1,2 @@
-## docker automated build file
+## Docker Automated Build File
 Proxy for docker images
