@@ -1,2 +1,2 @@
 ## Docker Automated Build File
-Proxy for docker images
+Docker hub proxy for docker images
