@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/hyperkube-amd64:__RELEASE__
+FROM gcr.io/google_containers/hyperkube-amd64:v1.4.6
 MAINTAINER tomzhao
