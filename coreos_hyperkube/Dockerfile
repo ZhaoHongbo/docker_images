@@ -1,2 +1,2 @@
-FROM quay.io/coreos/hyperkube:v1.4.6_coreos.0
+FROM gcr.io/google_containers/hyperkube-amd64:__RELEASE__
 MAINTAINER tomzhao
